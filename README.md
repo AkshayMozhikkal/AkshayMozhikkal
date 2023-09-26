@@ -11,6 +11,4 @@
 
 # ![Snake animation](/github-grid-snake.svg)
 
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-
-    <dotlottie-player src="https://lottie.host/c33d6d31-9261-463b-a21c-a03e4a1dc736/QTB4qtnqJG.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+<iframe src="https://lottie.host/?file=c33d6d31-9261-463b-a21c-a03e4a1dc736/QTB4qtnqJG.json"></iframe>
