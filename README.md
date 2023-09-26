@@ -11,4 +11,4 @@
 
 # ![Snake animation](/github-grid-snake.svg)
 
-<iframe src="https://lottie.host/?file=c33d6d31-9261-463b-a21c-a03e4a1dc736/QTB4qtnqJG.json"></iframe>
+<img src="https://lottie.host/?file=c33d6d31-9261-463b-a21c-a03e4a1dc736/QTB4qtnqJG.json" /> 
