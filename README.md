@@ -11,4 +11,4 @@
 
 # ![Snake animation](/github-grid-snake.svg)
 
-<img src="https://lottie.host/?file=c33d6d31-9261-463b-a21c-a03e4a1dc736/QTB4qtnqJG.json" /> 
+<img src="https://lottie.host/?file=c33d6d31-9261-463b-a21c-a03e4a1dc736/QTB4qtnqJG.json" alt="AkshayMozhikkal" height="50" width="75" /> 
